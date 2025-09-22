@@ -13,7 +13,7 @@ Documents about anything, for anyone!
 
 III. Syntax
 How do I make:
-- emoji
+- emoji :sob:
 - clickable links
 - bulleted lists
 - nested lists
